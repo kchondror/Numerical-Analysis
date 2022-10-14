@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608657868 source:c:\users\acer\documents\numerical analysis\’σκηση 4\num ex.4 4.5 11vs10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

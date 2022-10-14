@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608654863 source:c:\users\acer\documents\numerical analysis\’σκηση 4\num ex.4 4.1 power method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1608656545 source:c:\users\acer\documents\numerical analysis\’σκηση 4\num ex.4 4.2 power method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

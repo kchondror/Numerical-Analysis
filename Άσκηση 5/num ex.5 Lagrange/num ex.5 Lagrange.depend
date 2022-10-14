@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1609757503 source:c:\users\acer\documents\codeblocks projects\c τωρινό εξάμηνα\num ex.5 lagrange\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609759451 source:c:\users\acer\documents\numerical analysis 2\’σκηση 5\num ex.5 lagrange\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610910510 source:c:\users\acer\desktop\numerical analysis 2\’σκηση 5\num ex.5 lagrange\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608202777 source:c:\users\acer\documents\numerical analysis\exer.3\num ex.3 palu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
